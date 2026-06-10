@@ -3,11 +3,11 @@
 Building projects, solving problems, and exploring the future of technology.
 
 ### Interests
-💻 Python Development  
-🧠 Data Structures & Algorithms  
-🤖 Artificial Intelligence & Machine Learning  
-🔐 Cybersecurity (Burp Suite & OWASP Juice Shop)  
-⚛️ Quantum Computing (Qiskit)
+* Python Development  
+* Data Structures & Algorithms  
+* Artificial Intelligence & Machine Learning  
+* Cybersecurity (Burp Suite & OWASP Juice Shop)  
+* Quantum Computing (Qiskit)
 
 I enjoy learning how things work under the hood, whether it's optimizing algorithms, securing applications, training intelligent models, or experimenting with quantum circuits.
 
