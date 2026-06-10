@@ -1,16 +1,16 @@
-## Hi there 👋
+🚀 Sophomore Engineering Student
 
-<!--
-**HitMic07/HitMic07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building projects, solving problems, and exploring the future of technology.
 
-Here are some ideas to get you started:
+### Interests
+💻 Python Development  
+🧠 Data Structures & Algorithms  
+🤖 Artificial Intelligence & Machine Learning  
+🔐 Cybersecurity (Burp Suite & OWASP Juice Shop)  
+⚛️ Quantum Computing (Qiskit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning how things work under the hood, whether it's optimizing algorithms, securing applications, training intelligent models, or experimenting with quantum circuits.
+
+My goal is to continuously grow as an engineer by building impactful projects, contributing to the developer community, and staying curious about emerging technologies.
+
+> "Learning never exhausts the mind—it only expands the possibilities."
